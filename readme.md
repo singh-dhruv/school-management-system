@@ -1,18 +1,6 @@
 # school Management System (SMS)
 Another School Management System build with laravel and PHP 7.
 
-[![Codeship Status for hrshadhin/school-management-system](https://app.codeship.com/projects/09010350-b97f-0136-1477-5a7589b245e6/status?branch=master)](https://app.codeship.com/projects/312233)
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![Known Vulnerabilities](https://snyk.io/test/github/hrshadhin/school-management-system/badge.svg?targetFile=package.json)](https://snyk.io/test/github/hrshadhin/school-management-system?targetFile=package.json)
-
-
-:loudspeaker:
-**Notic:**  Now its version [v2.0](https://github.com/hrshadhin/school-management-system/releases/tag/v2.0) (community edition)
-. If you need PHP 5 support then use version [v1.0](https://github.com/hrshadhin/school-management-system/releases/tag/v1.0).
-For Enterprise edition checkout here [EE](https://github.com/hrshadhin/school-management-system/tree/empty)
-
-
-
 # Features
 |   Community Edition   |   Enterprise Edition   |
 |-----------------------|:-------------------------:|
