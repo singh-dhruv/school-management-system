@@ -1,5 +1,5 @@
-# school Management System (SMS)
-Another School Management System build with laravel and PHP 7.
+# School Management System (SMS)
+A School Management System build with laravel and PHP 7.
 
 # Features
 |   Community Edition   |   Enterprise Edition   |
