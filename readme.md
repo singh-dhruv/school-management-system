@@ -129,12 +129,6 @@ Now visit and login: [http://localhost:8000](http://localhost:8000) \
 username: admin\
 password: demo123
 
-**Demo(Community Edition)**\
-website url: http://sms.hrshadhin.me \
-app login: http://sms.hrshadhin.me/login \
-username: admin\
-password: demo123
-
 **Demo(Enterprise Edition)**\
 website url: http://cloudschoolbd.com \
 app login: http://cloudschoolbd.com/login \
