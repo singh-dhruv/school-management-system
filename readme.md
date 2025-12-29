@@ -75,12 +75,11 @@ For Enterprise edition checkout here [EE](https://github.com/hrshadhin/school-ma
 - XML PHP Extension
 - Ctype PHP Extension
 - JSON PHP Extension
-- [hrshadhin/laravel-userstamps](https://github.com/hrshadhin/laravel-userstamps.git)
 - NodeJS, npm, webpack
 
 
 ```
-$ git clone https://github.com/hrshadhin/school-management-system.git
+$ git clone https://github.com/singh-dhruv/school-management-system.git
 
 ```
 ```
